@@ -29,6 +29,3 @@ python main.py
 4. When all the edges are marked, the result is displayed on the result screen
 5. Click anywhere on the result screen to play again
 
-## About
-
-The original author is [Aqeel Anwar](https://www.prism.gatech.edu/~manwar8), but the rules has been fixed by [Jacrac04](https://github.com/Jacrac04/Dots-and-Boxes). Modified by GaIB 19 Assistants.
